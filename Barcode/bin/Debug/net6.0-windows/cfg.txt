@@ -1,0 +1,2 @@
+﻿connection:Data Source=.\st;Initial Catalog=BAZA;User ID=sa;Password=ISDF5ADMIN;
+timer:9000
