@@ -1,0 +1,2 @@
+﻿connection:Data Source=FATOS-PC\F50;Initial Catalog=BAZA;Integrated Security=True
+timer:8000
